@@ -9,7 +9,7 @@ L’éducation est un pilier essentiel du développement individuel et collectif
 Les résultats scolaires des étudiants dépendent de nombreux facteurs, tels que la motivation, l’environnement familial, la qualité des enseignants ou encore les conditions de vie.
 
 Ce jeu de données a été publié sur Kaggle sous le nom :  
-[Student Performance Factors Dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+[Student Performance Factors Dataset](https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights)
 
 Il contient des informations récentes et variées sur plus de 6 000 étudiants, issues d’enquêtes et d’analyses pédagogiques anonymisées.  
 L’objectif est de mieux comprendre comment certains comportements et contextes influencent la réussite académique.
