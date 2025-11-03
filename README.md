@@ -28,6 +28,3 @@ Ces variables couvrent des aspects académiques, sociaux et comportementaux, off
 ## Problématique
 Quels sont les facteurs qui influencent le plus la performance académique des étudiants, et dans quelle mesure peut-on prédire leurs résultats à partir de leurs habitudes et de leur environnement ?
 
-
-##Auteur
-**Ayoub Akkouh**
